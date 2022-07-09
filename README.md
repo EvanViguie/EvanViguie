@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/LimbicSystem"><img src="https://api.daily.dev/devcards/ea301ff8130d45ed8727eb29c8ba8ef5.png?r=dcc" width="400" alt="Evan Viguie's Dev Card"/></a>
+
+<a href="https://app.daily.dev/LimbicSystem"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Evan Viguie's Dev Card"/></a>
