@@ -19,3 +19,4 @@ jobs:
           commit_message: "chore: update ${filename}"
           commit_branch: main
           commit_filename: devcard.png
+          type: wide
