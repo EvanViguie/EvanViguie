@@ -13,9 +13,7 @@ jobs:
       contents: write
     steps:
       - name: devcard
-dependabot/github_actions/dailydotdev/action-devcard-3.1.0
         uses: dailydotdev/action-devcard@3.1.0
- main
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
